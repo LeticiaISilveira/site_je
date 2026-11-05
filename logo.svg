@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 450" role="img" aria-labelledby="title">
+  <title id="title">SOS Reparos Multi Serviços</title>
+  <circle cx="225" cy="225" r="202" fill="#0B1D3A"/>
+  <circle cx="225" cy="225" r="198" fill="#E85A24"/>
+  <circle cx="225" cy="225" r="190" fill="#fff"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="225" y="198" fill="#0B1D3A" font-size="112" font-weight="900" letter-spacing="-2">S<tspan fill="#E85A24">O</tspan>S</text>
+    <path d="m225 139-28 24h8v28h18v-15h7v15h18v-28h8z" fill="#0B1D3A"/>
+    <text x="225" y="274" fill="#0B1D3A" font-size="40" font-weight="900" letter-spacing="2">REPAROS</text>
+    <path d="M64 298h68m186 0h68" stroke="#E85A24" stroke-width="2"/>
+    <text x="225" y="307" fill="#0B1D3A" font-size="18" font-weight="800" letter-spacing="1">/ MULTI SERVIÇOS</text>
+    <path d="M72 333h306" stroke="#ccc"/>
+  </g>
+</svg>
